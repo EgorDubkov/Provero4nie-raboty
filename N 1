@@ -1,0 +1,31 @@
+<html>
+<body>
+<h1> 1. Уравнения </h1>
+<p>
+<br> 1. x<sup>2</sup> + 2x + 1 = 0 </br>
+<br> 2. (x + 1)<sup>x</sup> = (x - 1)<sup>2x</sup> </br> 
+<br> 3. sin<sup>2</sup>x = cos(&pi; - x) </br>
+<h1> 2. Таблицы </h1>
+<h2> 2.1 Структура </h2>
+</p>
+<table border="1" width="30%" heigth="20%"> 
+<tr align="center" ></tr><td></td><td colspan="2" align=center>Колонки</td></tr> 
+<tr> 
+<td ALIGN=center rowspan="2">Строки</td> 
+<td ALIGN=center>Ячейка А</td> 
+<td ALIGN=center>Ячейка B</td> 
+</tr> 
+<tr> 
+<td ALIGN=center>Ячейка C</td> 
+<td ALIGN=center>Ячейка D</td> 
+</tr> 
+</table> 
+<h2><b>2.2 Цвета</b></h2> 
+<table border=5 width="20%" height="20%"> 
+<tr align=center><td bgcolor="red">Красный</td></tr> 
+<tr align=center><td bgcolor="yellow">Желтый</td></tr> 
+<tr align=center><td bgcolor="green">Зеленый</td></tr> 
+<tr align=center><td bgcolor="blue">Синий</td></tr>
+</table> 
+</body> 
+</html>
